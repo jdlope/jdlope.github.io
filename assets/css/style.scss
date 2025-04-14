@@ -1,0 +1,14 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+a:hover, a:focus {
+  color:#069;
+  font-weight: normal;
+  text-decoration: underline;
+}
+
+h1, h2, h3 {
+  font-weight: normal;
+}
