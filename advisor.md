@@ -1,6 +1,6 @@
-# Advisor Supervision
+# Supervised Theses and Undergraduate Projects
 
-## Master's Thesis
+## Master's Theses
 
 Ainhoa Ruiz Vitte (2025) Daily activity classification based on wearable sensors for enhancing tremor assessment. Master's Thesis. ETS Ingenieros Informáticos (UPM), Madrid.
 [URL](https://oa.upm.es/88390/)
@@ -69,7 +69,7 @@ Gonzalo Mier Muñoz (2017) Acrobot: Control de robots subactuados usando método
 *Best Master's Thesis Award.*
 [URL](https://oa.upm.es/47905/)
 
-## Final Degree Projects
+## Undergraduate Final Projects
 
 Miguel Morales Galisteo (2025) Entorno de simulación para sistemas multi-robot. Final Degree Project. ETS Ingenieros Informáticos (UPM), Madrid.
 [URL](https://oa.upm.es/87830/)
@@ -85,8 +85,4 @@ Rafael Alonso Sirera (2023) Reconocimiento de tableros de ajedrez mediante visi�
 
 ## Older Academic Works
 
-The complete list includes more than one hundred academic thesis and final
-degree projects. Some of them can be found on
-[Archivo Digital UPM](https://oa.upm.es/), the institutional digital
-repository. Older ones are not available in digital format. Some works
-are not allowed to be published due to confidentiality restrictions.
+The complete list includes more than one hundred academic theses and undergraduate final projects. Some of them can be found on [Archivo Digital UPM](https://oa.upm.es/), the institutional digital repository. Older ones are not available in digital format. Some works are not allowed to be published due to confidentiality restrictions.
