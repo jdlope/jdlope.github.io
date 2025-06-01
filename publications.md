@@ -179,6 +179,11 @@ _IEEE Robotics & Automation Magazine_, 8(1):46-56, 2001.
 
 ## Book Chapters
 
+I. Morais-Quilez,M. Graña, J. de Lope.
+Machine learning for personality type classification on textual data.
+In J.M. Ferrández, J.M. Val Calvo, and H. Adeli, editors, _Artificial Intelligence for Neuroscience and Emotional Systems_, LNCS 14674, pages 261-269. Springer Nature, Cham, 2024.
+[DOI](https://doi.org/10.1007/978-3-031-61140-7_26)
+
 J.A. Nicolás, J. de Lope, and M. Graña.
 Data augmentation techniques for speech emotion recognition and deep learning.
 In J.M. Ferrández, J.R. Álvarez Sánchez, F. de la Paz, and H. Adeli, editors, _Bio-inspired Systems and Applications: from Robotics to Ambient Intelligence_, LNCS 13259, pages 319-326. Springer Nature, Cham, 2022.
