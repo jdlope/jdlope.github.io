@@ -177,12 +177,11 @@ An integral system for assisted mobility (automated wheelchair).
 _IEEE Robotics & Automation Magazine_, 8(1):46-56, 2001.
 [DOI](http://dx.doi.org/10.1109/100.924361)
 
-
 ## Book Chapters
 
 J.A. Nicolás, J. de Lope, and M. Graña.
 Data augmentation techniques for speech emotion recognition and deep learning.
-In J.M. Ferrández, J. R. Álvarez Sánchez, F. de la Paz, and H. Adeli, editors, _Bio-inspired Systems and Applications: from Robotics to Ambient Intelligence_, LNCS 13259, pages 319-326. Springer Nature, Cham, 2022.
+In J.M. Ferrández, J.R. Álvarez Sánchez, F. de la Paz, and H. Adeli, editors, _Bio-inspired Systems and Applications: from Robotics to Ambient Intelligence_, LNCS 13259, pages 319-326. Springer Nature, Cham, 2022.
 [DOI](https://doi.org/10.1007/978-3-031-06527-9_27)
 
 J. de Lope, E. Hernández, V. Vargas and M. Graña.
@@ -192,37 +191,37 @@ In H. Sanjurjo, I. Pastor, P. García, H. Quintián, and E. Corchado, editors, _
 
 J. de Lope and M. Graña.
 Comparison of labeling methods for behavioral activity classification based on gaze ethograms.
-In E. A. de la Cal, J. R. Villar, H. Quintián, and E. Corchado, editors, _Hybrid Artificial Intelligent Systems_, LNAI 12344, pages 132-144. Springer Nature, Cham, 2020.
+In E.A. de la Cal, J.R. Villar, H. Quintián, and E. Corchado, editors, _Hybrid Artificial Intelligent Systems_, LNAI 12344, pages 132-144. Springer Nature, Cham, 2020.
 [DOI](http://dx.doi.org/10.1007/978-3-030-61705-9_12)
 
 I. Baglietto, X. Garmendia, J. de Lope, and M. Graña.
 Fusion of inertial motion sensors and electroecephalogram for activity detection.
-In J.M. Ferrández, J. R. Álvarez Sánchez, F. de la Paz, J. Toledo, and H. Adeli, editors, _Understanding the Brain Function and Emotions_, LNCS 11486, pages 319-326. Springer Nature, Cham, 2019.
+In J.M. Ferrández, J.R. Álvarez Sánchez, F. de la Paz, J. Toledo, and H. Adeli, editors, _Understanding the Brain Function and Emotions_, LNCS 11486, pages 319-326. Springer Nature, Cham, 2019.
 [DOI](http://dx.doi.org/10.1007/978-3-030-19591-5_33)
 
 S. Moraleda, J. de Lope, and M. Graña.
 Recognizing cognitive activities through eye tracking.
-In J.M. Ferrández, J. R. Álvarez Sánchez, F. de la Paz, J. Toledo, and H. Adeli, editors, _Understanding the Brain Function and Emotions_, LNCS 11486, pages 291-300. Springer Nature, Cham, 2019.
+In J.M. Ferrández, J.R. Álvarez Sánchez, F. de la Paz, J. Toledo, and H. Adeli, editors, _Understanding the Brain Function and Emotions_, LNCS 11486, pages 291-300. Springer Nature, Cham, 2019.
 [DOI](http://dx.doi.org/10.1007/978-3-030-19591-5_30)
 
 P. Romero, J. de Lope, and M. Graña.
 Deep learning prediction of gait based inertial measurements.
-In J.M. Ferrández, J. R. Álvarez Sánchez, F. de la Paz, J. Toledo, and H. Adeli, editors, _Understanding the Brain Function and Emotions_, LNCS 11486, pages 284-290. Springer Nature, Cham, 2019.
+In J.M. Ferrández, J.R. Álvarez Sánchez, F. de la Paz, J. Toledo, and H. Adeli, editors, _Understanding the Brain Function and Emotions_, LNCS 11486, pages 284-290. Springer Nature, Cham, 2019.
 [DOI](http://dx.doi.org/10.1007/978-3-030-19591-5_29)
 
 M. Graña and J. de Lope.
 A short review of some aspects of computational neuroethology.
-In J.M. Ferrández, J. R. Álvarez Sánchez, F. de la Paz, J. Toledo, and H. Adeli, editors, _Understanding the Brain Function and Emotions_, LNCS 11486, pages 275-283. Springer Nature, Cham, 2019.
+In J.M. Ferrández, J.R. Álvarez Sánchez, F. de la Paz, J. Toledo, and H. Adeli, editors, _Understanding the Brain Function and Emotions_, LNCS 11486, pages 275-283. Springer Nature, Cham, 2019.
 [DOI](http://dx.doi.org/10.1007/978-3-030-19591-5_28)
 
 D. Maravall, J. de Lope, and J.P. Fuentes.
 Robust joint visual attention for HRI using a laser pointer for perspective alignment and deictic referring.
-In J.M. Ferrández, J. R. Álvarez Sánchez, F. de la Paz, J. Toledo, and H. Adeli, editors, _Biomedical Applications Based on Natural and Artificial Computing_, LNCS 10338, pages 127-136. Springer Nature, Cham, 2017.
+In J.M. Ferrández, J.R. Álvarez Sánchez, F. de la Paz, J. Toledo, and H. Adeli, editors, _Biomedical Applications Based on Natural and Artificial Computing_, LNCS 10338, pages 127-136. Springer Nature, Cham, 2017.
 [DOI](http://dx.doi.org/10.1007/978-3-319-59773-7_14)
 
 D. Maravall, J. de Lope, and J.P. Fuentes.
 Visual bug algorithm for simultaneous robot homing and obstacle avoidance using visual topological maps in an unmanned ground vehicle.
-In J.M. Ferrández, J. R. Álvarez Sánchez, F. de la Paz, J. Toledo, and H. Adeli, editors, _Bioinspired Computation in Artificial Systems_, LNCS 9108, pages 301-310. Springer, Cham, 2015.
+In J.M. Ferrández, J.R. Álvarez Sánchez, F. de la Paz, J. Toledo, and H. Adeli, editors, _Bioinspired Computation in Artificial Systems_, LNCS 9108, pages 301-310. Springer, Cham, 2015.
 [DOI](http://dx.doi.org/10.1007/978-3-319-18833-1_32)
 
 J.P. Fuentes, D. Maravall, and J. de Lope.
@@ -237,12 +236,12 @@ In _Robotics: Concepts, Methodologies, Tools, and Applications_, pages 407-433. 
 
 J.M. Mingo, D. Maravall, and J. de Lope.
 Alignment in vision-oriented syntactic language games for teams of robots using stochastic regular grammars and reinforcement learning.
-In J.M. Ferrández, J. R. Álvarez Sánchez, F. de la Paz, J. Toledo, and H. Adeli, editors, _Natural and Artificial Computation in Engineering and Medical Applications_, LNCS 7931, pages 73-80. Springer, Berlin Heidelberg, 2013.
+In J.M. Ferrández, J.R. Álvarez Sánchez, F. de la Paz, J. Toledo, and H. Adeli, editors, _Natural and Artificial Computation in Engineering and Medical Applications_, LNCS 7931, pages 73-80. Springer, Berlin Heidelberg, 2013.
 [DOI](http://dx.doi.org/10.1007/978-3-642-38622-0_8)
 
 D. Maravall, J. de Lope, and J.P. Fuentes.
 A vision-based dual anticipatory/reactive control architecture for indoor navigation of an unmanned aerial vehicle using visual topological maps.
-In J.M. Ferrández, J. R. Álvarez Sánchez, F. de la Paz, J. Toledo, and H. Adeli, editors, _Natural and Artificial Computation in Engineering and Medical Applications_, LNCS 7931, pages 66-72. Springer, Berlin Heidelberg, 2013.
+In J.M. Ferrández, J.R. Álvarez Sánchez, F. de la Paz, J. Toledo, and H. Adeli, editors, _Natural and Artificial Computation in Engineering and Medical Applications_, LNCS 7931, pages 66-72. Springer, Berlin Heidelberg, 2013.
 [DOI](http://dx.doi.org/10.1007/978-3-642-38622-0_7)
 
 J.M. Mingo, R. Aler, D. Maravall, and J. de Lope.
@@ -262,27 +261,27 @@ In I. Batyrshin and G. Sidorov, editors, _Advances in Artificial Intelligence_, 
 
 D. Maravall, J. de Lope, and R. Domínguez.
 Coordination of communication in robot teams by reinforcement learning.
-In J.M. Ferrández, J. R. Álvarez, F. de la Paz, and F. J. Toledo, editors, _Foundations on Natural and Artificial Computation_, LNCS 6686, pages 156-164. Springer, Berlin Heidelberg, 2011.
+In J.M. Ferrández, J.R. Álvarez, F. de la Paz, and F. J. Toledo, editors, _Foundations on Natural and Artificial Computation_, LNCS 6686, pages 156-164. Springer, Berlin Heidelberg, 2011.
 [DOI](http://dx.doi.org/10.1007/978-3-642-21344-1_17)
 
 J. de Lope and D. Maravall.
 A novel linear cellular automata-based data clustering algorithm.
-In J.M. Ferrández, J. R. Álvarez, F. de la Paz, and F. J. Toledo, editors, _Foundations on Natural and Artificial Computation_, LNCS 6686, pages 70-79. Springer, Berlin Heidelberg, 2011.
+In J.M. Ferrández, J.R. Álvarez, F. de la Paz, and F. J. Toledo, editors, _Foundations on Natural and Artificial Computation_, LNCS 6686, pages 70-79. Springer, Berlin Heidelberg, 2011.
 [DOI](http://dx.doi.org/10.1007/978-3-642-21344-1_8)
 
 Y. Quiñonez, J. de Lope, and D. Maravall.
 Bio-inspired decentralized self-coordination algorithms for multi-heterogeneous specialized tasks distribution in multi-robot systems.
-In J.M. Ferrández, J. R. Álvarez, F. de la Paz, and F. J. Toledo, editors, _Foundations on Natural and Artificial Computation_, LNCS 6686, pages 30-39. Springer, Berlin Heidelberg, 2011.
+In J.M. Ferrández, J.R. Álvarez, F. de la Paz, and F. J. Toledo, editors, _Foundations on Natural and Artificial Computation_, LNCS 6686, pages 30-39. Springer, Berlin Heidelberg, 2011.
 [DOI](http://dx.doi.org/10.1007/978-3-642-21344-1_4)
 
 M. Martín-Ortiz, J. Pereda, J. de Lope, and F. de la Paz.
 Selective method based on auctions for map inspection by robotic teams.
-In J.M. Ferrández, J. R. Álvarez, F. de la Paz, and F. J. Toledo, editors, _Foundations on Natural and Artificial Computation_, LNCS 6686, pages 175-184. Springer, Berlin Heidelberg, 2011.
+In J.M. Ferrández, J.R. Álvarez, F. de la Paz, and F. J. Toledo, editors, _Foundations on Natural and Artificial Computation_, LNCS 6686, pages 175-184. Springer, Berlin Heidelberg, 2011.
 [DOI](http://dx.doi.org/10.1007/978-3-642-21344-1_19)
 
 J. Pereda, M. Martín-Ortiz, J. de Lope, and F. de la Paz.
 Study of a multi-robot collaborative task through reinforcement learning.
-In J.M. Ferrández, J. R. Álvarez, F. de la Paz, and F. J. Toledo, editors, _Foundations on Natural and Artificial Computation_, LNCS 6686, pages 185-191. Springer, Berlin Heidelberg, 2011.
+In J.M. Ferrández, J.R. Álvarez, F. de la Paz, and F. J. Toledo, editors, _Foundations on Natural and Artificial Computation_, LNCS 6686, pages 185-191. Springer, Berlin Heidelberg, 2011.
 [DOI](http://dx.doi.org/10.1007/978-3-642-21344-1_20)
 
 D. Maravall, J. de Lope, and R. Domínguez.
@@ -292,17 +291,17 @@ In E. Corchado, M. Graña, and A. Manhaes, editors, _Hybrid Artificial Intellige
 
 J.A. Martín, J. de Lope, and D. Maravall.
 Learning to coordinate multi-robot competitive systems by stimuli adaptation.
-In J. Mira, J.M. Ferrández, J. R. Álvarez, F. de la Paz, and J. Toledo, editors, _Bioinspired Applications in Artificial and Natural Computation_, LNCS 5602, pages 362-371. Springer, Berlin Heidelberg, 2009.
+In J. Mira, J.M. Ferrández, J.R. Álvarez, F. de la Paz, and J. Toledo, editors, _Bioinspired Applications in Artificial and Natural Computation_, LNCS 5602, pages 362-371. Springer, Berlin Heidelberg, 2009.
 [DOI](http://dx.doi.org/10.1007/978-3-642-02267-8_39)
 
 J.A. Martín, J. de Lope, and D. Maravall.
 The kNN-TD reinforcement learning algorithm.
-In J. Mira, J.M. Ferrández, J. R. Álvarez, F. de la Paz, and J. Toledo, editors, _Methods and Models in Artificial Intelligence and Natural Computation. A Homage to Professor Mira's Scientific Legacy_, LNCS 5601, pages 305-314. Springer, Berlin Heidelberg, 2009.
+In J. Mira, J.M. Ferrández, J.R. Álvarez, F. de la Paz, and J. Toledo, editors, _Methods and Models in Artificial Intelligence and Natural Computation. A Homage to Professor Mira's Scientific Legacy_, LNCS 5601, pages 305-314. Springer, Berlin Heidelberg, 2009.
 [DOI](http://dx.doi.org/10.1007/978-3-642-02264-7_32)
 
 D. Maravall and J. de Lope.
 ANLAGIS: Adaptive neuron-like network based on learning automata theory and granular inference systems with applications to pattern recognition and machine learning.
-In J. Mira, J.M. Ferrández, J. R. Álvarez, F. de la Paz, and J. Toledo, editors, _Methods and Models in Artificial Intelligence and Natural Computation. A Homage to Professor Mira's Scientific Legacy_, LNCS 5601, pages 97-106. Springer, Berlin Heidelberg, 2009.
+In J. Mira, J.M. Ferrández, J.R. Álvarez, F. de la Paz, and J. Toledo, editors, _Methods and Models in Artificial Intelligence and Natural Computation. A Homage to Professor Mira's Scientific Legacy_, LNCS 5601, pages 97-106. Springer, Berlin Heidelberg, 2009.
 [DOI](http://dx.doi.org/10.1007/978-3-642-02264-7_11)
 
 Y. Sanz, J. de Lope, and D. Maravall.
@@ -322,7 +321,7 @@ In R. Moreno-Díaz, F. Pichler, and A. Quesada, editors, _Computer Aided Systems
 
 D. Maravall and J. de Lope.
 Neuro granular networks with self-learning stochastic connections: Fusion of neuro granular networks and learning automata theory.
-In M. K&ouml;ppen, N. Kasabov, and G. Coghill, editors, _Advances in Neuro-Information Processing_, LNCS 5506, pages 1029-1036. Springer, Berlin Heidelberg, 2009.
+In M. Köppen, N. Kasabov, and G. Coghill, editors, _Advances in Neuro-Information Processing_, LNCS 5506, pages 1029-1036. Springer, Berlin Heidelberg, 2009.
 [DOI](http://dx.doi.org/10.1007/978-3-642-02490-0_125)
 
 R.J. Duro, M. Graña, and J. de Lope.
@@ -362,17 +361,17 @@ In R. Moreno-Díaz, F. Pichler, and A. Quesada, editors, _Computer Aided Systems
 
 D. Maravall, J. de Lope, and J.A. Martín.
 Combining the best of the wwo worlds: Inheritance versus experience: Evolutionary knowledge-based control and Q-learning to solve autonomous robots motion control problems.
-In J. Mira and J. R. Álvarez, editors, _Nature Inspired Problem-Solving Methods in Knowledge Engineering_, LNCS 4528, pages 337-346.  Springer, Berlin Heidelberg, 2007.
+In J. Mira and J.R. Álvarez, editors, _Nature Inspired Problem-Solving Methods in Knowledge Engineering_, LNCS 4528, pages 337-346.  Springer, Berlin Heidelberg, 2007.
 [DOI](http://dx.doi.org/10.1007/978-3-540-73055-2_36)
 
 J.A. Martín and J. de Lope.
 Concepts and models for the future generation of emotional and intelligent systems.
-In J. Mira and J. R. Álvarez, editors, _Bio-inspired Modeling of Cognitive Tasks_, LNCS 4527, pages 41-50. Springer, Berlin Heidelberg, 2007.
+In J. Mira and J.R. Álvarez, editors, _Bio-inspired Modeling of Cognitive Tasks_, LNCS 4527, pages 41-50. Springer, Berlin Heidelberg, 2007.
 [DOI](http://dx.doi.org/10.1007/978-3-540-73053-8_4)
 
 J.A. Becerra, F. Bellas, R.J. Duro, and J. de Lope.
 Snake-like behaviors using macroevolutionary algorithms and modulation based architectures.
-In D. Ruan, P. D'hondt, P. F. Fantoni, M. D. Cock, M. Nachtegael, and E. E. Kerre, editors, _Applied Artificial Intelligence_, pages 725-730. World Scientific, Singapore, 2006.
+In D. Ruan, P. D'hondt, P. F. Fantoni, M. D. Cock, M. Nachtegael, and E.E. Kerre, editors, _Applied Artificial Intelligence_, pages 725-730. World Scientific, Singapore, 2006.
 [DOI](http://dx.doi.org/10.1142/9789812774118_0102)
 
 J. Pereda, J. de Lope, and D. Maravall.
@@ -387,7 +386,7 @@ In R. Moreno-Díaz, F. Pichler, and A. Quesada, editors, _Computer Aided Systems
 
 B. Prieto, J. de Lope, and D. Maravall.
 Reconfigurable hardware implementation of neural networks for humanoid locomotion.
-In J. Mira and J. R. Álvarez, editors, _Artificial Intelligence and Knowledge Engineering Applications: A Bioinspired Approach_, LNCS 3562, pages 395-404. Springer, Berlin Heidelberg, 2005.
+In J. Mira and J.R. Álvarez, editors, _Artificial Intelligence and Knowledge Engineering Applications: A Bioinspired Approach_, LNCS 3562, pages 395-404. Springer, Berlin Heidelberg, 2005.
 [DOI](http://dx.doi.org/10.1007/11499305_41)
 
 J. de Lope and D. Maravall.
@@ -397,7 +396,7 @@ In M.A. Armada and P. González, editors, _Climbing and Walking Robots_, pages 5
 
 T. Zarraonandia, J. de Lope, and D. Maravall.
 Definition of postural schemes for humanoid robots.
-In R. Conejo, M. Urretavizcaya, and J. L. Pérez de la Cruz, editors, _Current Topics in Artificial Intelligence. CAEPIA 2003 Revised Selected Papers_, LNAI 3040, pages 241-250. Springer, Berlin Heidelberg, 2004.
+In R. Conejo, M. Urretavizcaya, and J.L. Pérez de la Cruz, editors, _Current Topics in Artificial Intelligence. CAEPIA 2003 Revised Selected Papers_, LNAI 3040, pages 241-250. Springer, Berlin Heidelberg, 2004.
 [DOI](http://dx.doi.org/10.1007/978-3-540-25945-9_24)
 
 D. Maravall, J. de Lope, and M.A. Patricio.
@@ -407,7 +406,7 @@ In G. R. Raidl _et al._, editors, _Applications of Evolutionary Computing_, LNCS
 
 D. Maravall and J. de Lope.
 Automatic parking with collision avoidance.
-In D. Ruan, P. D'hondt, M. D. Cock, M. Nachtegael, and E. E. Kerre, editors, _Applied Computational Intelligence_, pages 463-470, World Scientific, Singapore, 2004.
+In D. Ruan, P. D'hondt, M. D. Cock, M. Nachtegael, and E.E. Kerre, editors, _Applied Computational Intelligence_, pages 463-470, World Scientific, Singapore, 2004.
 [DOI](http://dx.doi.org/10.1142/9789812702661_0085)
 
 D. Maravall and J. de Lope.
@@ -422,17 +421,17 @@ In R. Moreno-Díaz, F. Pichler, and A. Quesada, editors, _Computer Aided Systems
 
 D. Maravall, M.A. Patricio, and J. de Lope.
 A recurrent neural network for robotic sensory-based search.
-In J. Mira and J. R. Álvarez, editors, _Artificial Neural Nets Problem Solving Methods_, LNCS 2687, pages 153-160. Springer, Berlin Heidelberg, 2003.
+In J. Mira and J.R. Álvarez, editors, _Artificial Neural Nets Problem Solving Methods_, LNCS 2687, pages 153-160. Springer, Berlin Heidelberg, 2003.
 [DOI](http://dx.doi.org/10.1007/3-540-44869-1_20)
 
 J. de Lope, T. Zarraonandia, R. González, and D. Maravall.
 Solving the inverse kinematics in humanoid robots: A neural approach.
-In J. Mira and J. R. Álvarez, editors, _Artificial Neural Nets Problem Solving Methods_, LNCS 2687, pages 177-184. Springer, Berlin Heidelberg, 2003.
+In J. Mira and J.R. Álvarez, editors, _Artificial Neural Nets Problem Solving Methods_, LNCS 2687, pages 177-184. Springer, Berlin Heidelberg, 2003.
 [DOI](http://dx.doi.org/10.1007/3-540-44869-1_23)
 
 D. Maravall, J. de Lope, and M.A. Patricio.
 Automatic car parking: A reinforcement learning approach.
-In J. Mira and J. R. Álvarez, editors, _Artificial Neural Nets Problem Solving Methods_, LNCS 2687, pages 214-221. Springer, Berlin Heidelberg, 2003.
+In J. Mira and J.R. Álvarez, editors, _Artificial Neural Nets Problem Solving Methods_, LNCS 2687, pages 214-221. Springer, Berlin Heidelberg, 2003.
 [DOI](http://dx.doi.org/10.1007/3-540-44868-3_28)
 
 J. de Lope and D. Maravall.
@@ -447,7 +446,7 @@ In C. Zhou, D. Maravall, and D. Ruan, editors, _Autonomous Robotic Systems: Soft
 
 D. Maravall and J. de Lope.
 A reinforcement learning method for dynamic obstacle avoidance in robotic mechanisms.
-In D. Ruan, P. D'hondt, and E. E. Kerre, editors, _Computational Intelligent Systems for Applied Research_, pages 485-494, World Scientific, Singapore, 2002.
+In D. Ruan, P. D'hondt, and E.E. Kerre, editors, _Computational Intelligent Systems for Applied Research_, pages 485-494, World Scientific, Singapore, 2002.
 [DOI](http://dx.doi.org/10.1142/9789812777102_0059)
 
 J. de Lope and D. Maravall.
@@ -457,9 +456,8 @@ In J. Mira and A. Prieto, editors, _Bio-Inspired Applications of Connectionism_,
 
 J. de Lope, D. Maravall, and J.G. Zato.
 Topological modeling with Fuzzy Petri Nets for autonomous mobile robots.
-In A. P. del Pobil, J. Mira, and M. Ali, editors, _Tasks and Methods in Applied Artificial Intelligence_, LNAI 1416, pages 290-299. Springer, Berlin Heidelberg, 1998.
+In A.P. del Pobil, J. Mira, and M. Ali, editors, _Tasks and Methods in Applied Artificial Intelligence_, LNAI 1416, pages 290-299. Springer, Berlin Heidelberg, 1998.
 [DOI](http://dx.doi.org/10.1007/3-540-64574-8_415)
-
 
 ## International Conferences
 
@@ -530,7 +528,6 @@ Combination of model-based and reactive methods in autonomous navigation.
 In _IEEE Int. Conf. on Robotics & Automation (ICRA)_, volume 3, pages 2328-2333, San Francisco (USA), June 2000.
 [DOI](http://dx.doi.org/10.1109/ROBOT.2000.846374) | [PDF](http://www.dia.fi.upm.es/~jdlope/docs/maravall00.pdf)
 
-
 ## Local Conferences
 
 J. Pereda, D. Maravall, and J. de Lope.
@@ -559,7 +556,6 @@ J. de Lope, D. Maravall, and J.G. Zato.
 Estrategias de exploración para la construcción autónoma de modelos topológicos en robots móviles.
 In _VIII Conf. de la Asociación Española para la Inteligencia Artificial (CAEPIA)_, volume I - Ingeniería del Conocimiento y Agentes, pages 44-51, Murcia (Spain), November 1999.
 [PDF](http://www.dia.fi.upm.es/~jdlope/docs/delope99.pdf)
-
 
 ## Books and Monographs
 
