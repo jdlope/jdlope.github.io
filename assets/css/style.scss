@@ -3,12 +3,53 @@
 
 @import "{{ site.theme }}";
 
-a:hover, a:focus {
-  color:#069;
-  font-weight: normal;
-  text-decoration: underline;
+:root {
+    --background-color: #ffffff;
+    --text-color: #333333;
+    --heading-color: #007bff;
+    --link-color: #007bff;
+    --code-background: #f8f8f8;
+    --border-color: #dddddd;
+}
+
+body {
+    background-color: var(--background-color);
+    color: var(--text-color);
+    transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 h1, h2, h3 {
-  font-weight: normal;
+    font-weight: normal;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: var(--heading-color);
+}
+
+a {
+    color: var(--link-color);
+    text-decoration: none;
+
+    &:hover, &:focus {
+        font-weight: normal;
+        text-decoration: underline;
+    }
+}
+
+pre, code {
+    background-color: var(--code-background);
+    border: 1px solid var(--border-color);
+    padding: 10px;
+    border-radius: 5px;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --background-color: #282c34;
+        --text-color: #f8f8f2;
+        --heading-color: #61dafb;
+        --link-color: #61dafb;
+        --code-background: #3c4048;
+        --border-color: #555555;
+    }
 }
