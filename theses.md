@@ -71,6 +71,16 @@ Gonzalo Mier Muñoz (2017) Acrobot: Control de robots subactuados usando método
 
 ## Undergraduate Final Projects
 
+Eduardo López Delmás (2025) Seguimiento de líneas con técnicas de aprendizaje por refuerzo en robótica móvil. Final Degree Project. ETS Ingenieros Informáticos (UPM), Madrid.
+[URL](https://oa.upm.es/90129/)
+
+Eduardo Miralles Ciordia (2025) Seguimiento líneas mediante técnicas robótica evolutiva. Final Degree Project. ETS Ingenieros Informáticos (UPM), Madrid.
+[URL](https://oa.upm.es/90141/)
+
+Alejandro San Juan Sánchez (2025) Desarrollo de controladores para la conducción autónoma de vehículos. Final Degree Project. ETS Ingenieros Informáticos (UPM), Madrid.
+
+Ángel Romero Huici (2025) Aprendizaje de comportamientos en robots móviles. Final Degree Project. ETS Ingenieros Informáticos (UPM), Madrid.
+
 Miguel Morales Galisteo (2025) Entorno de simulación para sistemas multi-robot. Final Degree Project. ETS Ingenieros Informáticos (UPM), Madrid.
 [URL](https://oa.upm.es/87830/)
 
@@ -85,4 +95,4 @@ Rafael Alonso Sirera (2023) Reconocimiento de tableros de ajedrez mediante visi�
 
 ## Older Academic Works
 
-The complete list includes more than one hundred academic theses and undergraduate final projects. Some of them can be found on [Archivo Digital UPM](https://oa.upm.es/), the institutional digital repository. Older ones are not available in digital format. Some works are not allowed to be published due to confidentiality restrictions.
+The complete list includes more than one hundred academic theses and undergraduate final projects. Some of them can be found on [Archivo Digital UPM](https://oa.upm.es/), the institutional digital repository. Older ones are not available in digital format.
