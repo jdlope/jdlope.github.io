@@ -2,6 +2,11 @@
 
 ## Journals
 
+F. Portal, J. de Lope and M. Graña.
+A performance benchmarking review of transformers for Speaker-Independent Speech Emotion Recognition.
+_International Journal of Neural Systems_, 2025.
+[DOI](https://doi.org/10.1142/S0129065725300013)
+
 J. de Lope and M. Graña.
 An ongoing review of speech emotion recognition.
 _Neurocomputing_, 528:1-11, 2023.
@@ -179,7 +184,7 @@ _IEEE Robotics & Automation Magazine_, 8(1):46-56, 2001.
 
 ## Book Chapters
 
-I. Morais-Quilez,M. Graña, J. de Lope.
+I. Morais-Quilez, M. Graña, J. de Lope.
 Machine learning for personality type classification on textual data.
 In J.M. Ferrández, J.M. Val Calvo, and H. Adeli, editors, _Artificial Intelligence for Neuroscience and Emotional Systems_, LNCS 14674, pages 261-269. Springer Nature, Cham, 2024.
 [DOI](https://doi.org/10.1007/978-3-031-61140-7_26)

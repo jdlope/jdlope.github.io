@@ -12,6 +12,11 @@ Associate Professor in the [Department of Artificial Intelligence](https://dia.f
 
 ## Recent Publications
 
+F. Portal, J. de Lope and M. Graña.
+A performance benchmarking review of transformers for Speaker-Independent Speech Emotion Recognition.
+_International Journal of Neural Systems_, 2025.
+[DOI](https://doi.org/10.1142/S0129065725300013)
+
 J. de Lope and M. Graña.
 An ongoing review of speech emotion recognition.
 _Neurocomputing_, 528:1-11, 2023.
@@ -36,19 +41,3 @@ J. de Lope, E. Hernández, V. Vargas and M. Graña.
 Speech emotion recognition by conventional machine learning and deep learning.
 In H. Sanjurjo, I. Pastor, P. García, H. Quintián, and E. Corchado, editors, _Hybrid Artificial Intelligent Systems_, LNAI 12886, pages 319-330. Springer Nature, Cham, 2021.
 [DOI](http://dx.doi.org/10.1007/978-3-030-86271-8_27)
-
-J. de Lope and M. Graña.
-Comparison of labeling methods for behavioral activity classification based on gaze ethograms.
-In E. A. de la Cal, J.R. Villar, H. Quintián, and E. Corchado, editors,
-_Hybrid Artificial Intelligent Systems_, LNAI 12344, pages 132-144. Springer Nature, Cham, 2020.
-[DOI](http://dx.doi.org/10.1007/978-3-030-61705-9_12)
-
-M. Graña, M. Aguilar-Moreno, J. de Lope, I. Baglietto, and X. Garmendia.
-Improved activity recognition combining inertial motion sensors and electroencephalogram signals.
-_International Journal of Neural Systems_, 30(10):2050053, 2020.
-[DOI](http://dx.doi.org/10.1142/S0129065720500537)
-
-J. de Lope and M. Graña.
-Behavioral activity recognition based on gaze ethograms.
-_International Journal of Neural Systems_, 30(7):2050025, 2020.
-[DOI](http://dx.doi.org/10.1142/S0129065720500252)
