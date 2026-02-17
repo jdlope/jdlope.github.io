@@ -2,6 +2,15 @@
 
 ## Master's Theses
 
+Aníbal Rivero Ríos (2025) Desarrollo de una herramienta para la traducción asistida de narrativas gráficas. Master's Thesis. ETS Ingenieros Informáticos (UPM), Madrid.
+
+Andrés García Solórzano (2025) Implementación y comparación de métodos de aprendizaje por refuerzo para el control de sistemas robóticos. Master's Thesis. ETS Ingenieros Informáticos (UPM), Madrid.
+
+Lucas Martín Gil-Delgado (2025) Redes neuronales aplicadas a la segmentación semántica de imágenes. Master's Thesis. ETS Ingenieros Informáticos (UPM), Madrid.
+[URL](https://oa.upm.es/93335/)
+
+Daniel Iordanov López (2025) Diseño y validación de red neuronal para predicción de cinemática articular en ciclismo mediante modelo biomecánico reducido de sensores inerciales. Master's Thesis. ETS Ingenieros Informáticos (UPM), Madrid.
+
 Ainhoa Ruiz Vitte (2025) Daily activity classification based on wearable sensors for enhancing tremor assessment. Master's Thesis. ETS Ingenieros Informáticos (UPM), Madrid.
 [URL](https://oa.upm.es/88390/)
 
@@ -71,7 +80,11 @@ Gonzalo Mier Muñoz (2017) Acrobot: Control de robots subactuados usando método
 
 ## Undergraduate Final Projects
 
-Eduardo López Delmás (2025) Seguimiento de líneas con técnicas de aprendizaje por refuerzo en robótica móvil. Final Degree Project. ETS Ingenieros Informáticos (UPM), Madrid.
+Sergio del Castillo Agudo (2026) Sistema de predicción de resultados deportivos basado en aprendizaje automático. Final Degree Project. ETS Ingenieros Informáticos (UPM), Madrid.
+
+Juan Lence González (2026) Control de mecanismos tipo acrobot mediante aprendizaje por refuerzo. Final Degree Project. ETS Ingenieros Informáticos (UPM), Madrid.
+
+Alejandro López Delmás (2025) Seguimiento de líneas con técnicas de aprendizaje por refuerzo en robótica móvil. Final Degree Project. ETS Ingenieros Informáticos (UPM), Madrid.
 [URL](https://oa.upm.es/90129/)
 
 Eduardo Miralles Ciordia (2025) Seguimiento líneas mediante técnicas robótica evolutiva. Final Degree Project. ETS Ingenieros Informáticos (UPM), Madrid.
