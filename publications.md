@@ -4,7 +4,7 @@
 
 F. Portal, J. de Lope and M. Graña.
 A performance benchmarking review of transformers for Speaker-Independent Speech Emotion Recognition.
-_International Journal of Neural Systems_, 2025.
+_International Journal of Neural Systems_, 35(10):2530001, 2025.
 [DOI](https://doi.org/10.1142/S0129065725300013)
 
 J. de Lope and M. Graña.
@@ -183,6 +183,11 @@ _IEEE Robotics & Automation Magazine_, 8(1):46-56, 2001.
 [DOI](http://dx.doi.org/10.1109/100.924361)
 
 ## Book Chapters
+
+F. Portal, J. de Lope and M. Graña.
+Towards Speaker Independent Speech Emotion Recognition by means of Dataset Aggregation.
+In I. Rojas, G. Joya, and A. Catala, editors, _Advances in Computational Intelligence_, LNCS 16008, pages 322-333. Springer Nature, Cham, 2026.
+[DOI](https://doi.org/10.1007/978-3-032-02725-2_25)
 
 I. Morais-Quilez, M. Graña, J. de Lope.
 Machine learning for personality type classification on textual data.
@@ -470,6 +475,11 @@ In A.P. del Pobil, J. Mira, and M. Ali, editors, _Tasks and Methods in Applied A
 [DOI](http://dx.doi.org/10.1007/3-540-64574-8_415)
 
 ## International Conferences
+
+F. Portal, J. de Lope and M. Graña.
+Experiments on Speaker Independent Speech Emotion Recognition.
+In _18th IIAI International Conference on Advanced Applied Informatics (IIAI-AAI)_, Kitakyushu (Japan), July 2025.
+[URL](https://iaiai.org/conference/aai2025/)
 
 J. Pestana, J. Sánchez-López, R. Suárez-Fernández, J.-F. Collumeau, P. Campoy, J. Martín-Cristóbal, M. Molina, J. de Lope, and D. Maravall.
 A vision based aerial robot solution for the IARC2014 by the Technical University of Madrid.

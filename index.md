@@ -13,8 +13,13 @@ Associate Professor in the [Department of Artificial Intelligence](https://dia.f
 ## Recent Publications
 
 F. Portal, J. de Lope and M. Graña.
+Towards Speaker Independent Speech Emotion Recognition by means of Dataset Aggregation.
+In I. Rojas, G. Joya, and A. Catala, editors, _Advances in Computational Intelligence_, LNCS 16008, pages 322-333. Springer Nature, Cham, 2026.
+[DOI](https://doi.org/10.1007/978-3-032-02725-2_25)
+
+F. Portal, J. de Lope and M. Graña.
 A performance benchmarking review of transformers for Speaker-Independent Speech Emotion Recognition.
-_International Journal of Neural Systems_, 2025.
+_International Journal of Neural Systems_, 35(10):2530001, 2025.
 [DOI](https://doi.org/10.1142/S0129065725300013)
 
 J. de Lope and M. Graña.
