@@ -99,8 +99,10 @@ Marcos Jiménez González (2026) Entorno de simulación de robots braquiadores c
 Alejandro de Hermenegildo Sordo (2026) Estudio cinemático del manipulador ViperX-300. Final Degree Project. ETS Ingenieros Informáticos (UPM), Madrid.
 
 Sergio del Castillo Agudo (2026) Sistema de predicción de resultados deportivos basado en aprendizaje automático. Final Degree Project. ETS Ingenieros Informáticos (UPM), Madrid.
+[URL](https://oa.upm.es/94726/)
 
 Juan Lence González (2026) Control de mecanismos tipo acrobot mediante aprendizaje por refuerzo. Final Degree Project. ETS Ingenieros Informáticos (UPM), Madrid.
+[URL](https://oa.upm.es/94871/)
 
 Alejandro López Delmás (2025) Seguimiento de líneas con técnicas de aprendizaje por refuerzo en robótica móvil. Final Degree Project. ETS Ingenieros Informáticos (UPM), Madrid.
 [URL](https://oa.upm.es/90129/)
