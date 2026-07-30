@@ -2,6 +2,16 @@
 
 ## Master's Theses
 
+Nadine San Millán Rodrigues (2026) Modelado y control de robots aéreos bioinspirados con técnicas de aprendizaje por refuerzo. Master's Thesis. ETS Ingenieros Informáticos (UPM), Madrid.
+
+Juan Esteban Rincón Marín (2026) SmolVLA-MD: Integración de memoria a corto plazo y percepción de la profundidad en modelos VLA para manipulación robótica. Master's Thesis. ETS Ingenieros Informáticos (UPM), Madrid.
+
+Xiaodong Wang (2026) RL algorithm comparison for Unitree Go2 rough-terrain locomotion. Master's Thesis. ETS Ingenieros Informáticos (UPM), Madrid.
+
+Diego Vigneron Olmos (2026) Physiological modeling of cognitive load using pupillometry and ECG-derived feature. Master's Thesis. ETS Ingenieros Informáticos (UPM), Madrid.
+
+Arantxa García Benítez (2026) Prueba de concepto escalable de generación sintética multi-sensor en conducción autónoma. Master's Thesis. ETS Ingenieros Informáticos (UPM), Madrid.
+
 Aníbal Rivero Ríos (2025) Desarrollo de una herramienta para la traducción asistida de narrativas gráficas. Master's Thesis. ETS Ingenieros Informáticos (UPM), Madrid.
 
 Andrés García Solórzano (2025) Implementación y comparación de métodos de aprendizaje por refuerzo para el control de sistemas robóticos. Master's Thesis. ETS Ingenieros Informáticos (UPM), Madrid.
@@ -79,6 +89,14 @@ Gonzalo Mier Muñoz (2017) Acrobot: Control de robots subactuados usando método
 [URL](https://oa.upm.es/47905/)
 
 ## Undergraduate Final Projects
+
+Álvaro Martín Arenas (2026) Implementación de un sistema autónomo de monitorización ambiental mediante técnicas de TinyML para la detección de eventos críticos. Final Degree Project. ETS Ingenieros Informáticos (UPM), Madrid.
+
+Juan David Cárdenas Ortiz (2026) Aplicación para la manipulación de objetos basada en visión computacional. Final Degree Project. ETS Ingenieros Informáticos (UPM), Madrid.
+
+Marcos Jiménez González (2026) Entorno de simulación de robots braquiadores con motores de física. Final Degree Project. ETS Ingenieros Informáticos (UPM), Madrid.
+
+Alejandro de Hermenegildo Sordo (2026) Estudio cinemático del manipulador ViperX-300. Final Degree Project. ETS Ingenieros Informáticos (UPM), Madrid.
 
 Sergio del Castillo Agudo (2026) Sistema de predicción de resultados deportivos basado en aprendizaje automático. Final Degree Project. ETS Ingenieros Informáticos (UPM), Madrid.
 
